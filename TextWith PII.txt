@@ -67,16 +67,15 @@ T41ISaiuBi8AAAATZWFsaUBwcmlkaWN0ZGF0YS5pbw==
 
 Case -3
 Ejaz 
-Email : myemail@domain.com
+Email : anotheremail@domain.com
 
 Case -4 
 
 128*25*3525
-111-11-1111
 
-112-11-1112
+111-22-1113
 
-
+999-99-9999
 128 25 3525
 
 Case 5
