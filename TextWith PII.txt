@@ -93,7 +93,7 @@ Case-3
 
 
 	Ejaz 
-	Email : youremail@domain.com
+	Email : raliemail@domain.com
 
 
 	
@@ -101,10 +101,9 @@ Case -4
 
 
 
-	111-11-4321
-	111 11 1234
-	128*25*4321
-
+	111-11-1234
+	123 11 1234
+	128*25*1234
 
 	128 25 1234
 
