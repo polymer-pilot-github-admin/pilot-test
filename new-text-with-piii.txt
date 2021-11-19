@@ -98,7 +98,7 @@ Case-3
 
 
 	Ejaz 
-	Email : testbr2@hotmail.com
+	Email : testbr2@mail.com
 
 
 	
@@ -106,7 +106,7 @@ Case -4
 
 
 
-	123-22-2222
+	123-22-3333
 
 	111 11 7894
 	128*25*3525
