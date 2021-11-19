@@ -98,7 +98,7 @@ Case-3
 
 
 	Ejaz 
-	Email : third@gmail.com
+	Email : pilotgit@gmail.com
 
 
 	
@@ -106,7 +106,7 @@ Case -4
 
 
 
-	123-11-1122
+	123-22-1234
 
 	111 11 7894
 	128*25*3525
