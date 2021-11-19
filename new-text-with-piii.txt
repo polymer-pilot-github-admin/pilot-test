@@ -98,7 +98,7 @@ Case-3
 
 
 	Ejaz 
-	Email : testbr2@gmail.com
+	Email : testbr2@hotmail.com
 
 
 	
@@ -147,15 +147,15 @@ Case-6
 
 25 sep, 2011
 
-28-Oct-2021
+28-Oct-2023
 
 
 Case-7 
 
 
-192.168.2.1
+192.168.2.0
 
-182.168.22.425
+182.168.22.436
 44.40.4.10
 
 
