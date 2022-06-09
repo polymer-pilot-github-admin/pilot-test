@@ -4,13 +4,13 @@
 							All BASIC POLICY Rules list 
 
 		
-SSN : 185-36-3221
+SSN : 185-36-3255
 
-Date 05-12-2022
+Date 05-12-2055
 
-Email Address : tets134@test.com
+Email Address : tets155@test.com
 
-Phone number: +1 415 555 5422
+Phone number: +1 415 555 5455
 
 IP Address : 192.168.100.5
 
