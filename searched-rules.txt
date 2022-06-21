@@ -1,0 +1,422 @@
+	
+				All Pii Rules list 
+				
+		
+Amazon Web Services Credentials [
+	Valid:
+		AWS_ACCESS_KEY_ID=AKIAGLBA7A6CB6J7CPN3
+		AWS_SECRET_ACCESS_KEY=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
+
+
+		AWS_SECRET_ACCESS_KEY=cFDF554S5D4F5SD4F54SD+FSDF4SD/FASDF54DS4
+]
+		
+
+
+
+		
+AWS key[
+	Valid:
+		AWS_ACCESS_KEY_ID=AKIAGLBA7A6CB6J7CPN3
+
+]				
+				
+				
+				
+				
+Bank IBAN Number [
+	Valid:
+		AL47212110090000000235698741
+		AD1200012030200359100100
+		AT611904300234573201
+		AZ21NABZ00000000137010001944
+		BH67BMAG00001299123456
+		BE68539007547034
+		BA391290079401028494
+		BR1800360305000010009795493C1
+]				
+				
+				
+Canada Hin Number [
+	Valid :
+		ABC2AB41G203
+		CA-ABC67689B606
+		KAW98765b919
+		BEX 12345 B6 07
+
+
+]				
+				
+Canada OHIP Number [
+	regex = \b[0-9]{4}-?[0-9]{3}-?[0-9]{3}\b
+	max matches = (1234-567-890) (1234123123)
+] 
+
+Canada HIN Number [
+	max matches = Not found
+]
+
+
+Canada Social Insurance Number[
+	max matches {
+		666-668-888 (T) but taking as ICD-9
+		123 123 123
+	}
+] 
+
+Credit Card Number [
+	min matches {
+		5205105105105109
+		5455-7805-8606-2610
+		5455 7805 8606 2610
+		4960999008288 
+	} 
+]
+
+
+Credit Card Track Number [
+	max matches{
+		Not Found
+	}
+]
+
+date [
+	max matches {
+		12-05-2022
+		12.05.2022
+		12/05/2022
+	}
+	
+	Not matches {
+		12 05 2022
+		2022-02-11
+		may 12, 2022
+		12-May-2022
+		12_05_2022
+		12\05\2022
+		12 may 2021
+	}
+]
+
+Date of Birth [
+	max matches [
+		11/24/1956 birthdate 
+		06-22-1972 date of birth 
+		12-18-1952 date-of-birth
+		06-17-1958 dob 
+		04-21-1967b'day
+		04/08/1978b-day
+		03/04/1966bday 
+		10-20-1985birthday 
+		03/23/2013born 
+		01-29-1971d-o-b 
+		04/15/1961d/o/b 
+		01/08/2009date_of_birth
+		03-17-1952DateofB
+		06/24/1969dateofbirth 
+		b'day06/12/1975
+		b-day08/06/1984
+		bday05-21-1968 
+		birthdate 08-17-2011 
+		birthday03-15-1987
+		born05/16/2021
+		d-o-b12-20-2002
+		d/o/b07/21/2001
+		dob 10-05-1963 
+		date of birth 11-17-1985 
+		date-of-birth 12/04/1995
+		date_of_birth04/12/1977 
+		dateofbirth09-21-1975
+		DateofB04-08-1997
+	]
+	
+	not matches {
+		01/11/2021DOB 
+		08-11-1958DoB
+		DOB08-04-1989
+		DoB12/09/2017
+	}
+
+]
+
+
+
+Email Address [
+	max_maches {
+		
+			
+	}
+	
+]
+
+FDA Code [
+	max_maches {
+		16WEE14
+		62GBA41
+		79L--RR	
+	}
+	not matches {
+		01GBA41
+		622BA41
+		38BEE271
+	}
+]
+
+ICD-10 [
+	max_matches {
+		A00-B99  
+		C00-D49  
+		C00-t85  
+		V00-Y99  
+		Z00-Z99  
+		F01-F09  
+		F10-F19  
+		F20-F29  
+		F10  
+		F11  
+		F12 
+		F12.1 
+		F12.10 
+		F12.11 
+		F12.12 
+		F12.120 
+		F12.121 
+		F12.122 
+		F12.129 
+		A00.0 
+		A00.1 
+		A00.9 
+		S06.0X1A
+	}
+	
+]
+
+ICD-9 [
+	max_matches {
+		001-139  
+		140-239  
+		240-279  
+		280-289  
+		390-392  
+		393-398  
+		401 
+		402 
+		403 
+		402.0 
+		402.00 
+		402.00 
+		402.01
+		402.01 	
+
+	}
+
+]
+
+IP Address [
+	max_matches {
+		IPv4 1: 127.0.0.1
+		IPv4 2: 255.255.255.0
+		IPv4 3: 172.17.0.125
+		
+		IPv6 2: 2001:4860:4860:0000:0000:0000:0000:8888
+		IPv6 3: 2405:4802:913a:d620:1475:5926:6c63:9fdd
+		IPv6 4: 2345:0425:2CA1:0:0:0567:5673:23b5
+	}
+]
+
+
+
+MRN [
+	max_matches {
+		mrn:1234567
+		mrn : 1212315
+	}
+	
+	not_matches {
+		medical-record-number:123456789789
+		medical_record_number:123456789		
+	}
+	
+	Note: Need to verify the medical-record-number text in regex
+
+]
+
+
+phone Number [
+	max_matches {
+		9656565656
+		454 454 4544
+		455-545-5455
+		455.545.5454
+		1 454 454 4545
+	}
+
+
+]
+
+USA Adaption Tin Number [
+	max_matches {
+		909-93-4642
+		924 93 2434
+		954.93.5454
+	}
+	
+	invalid {
+		923-73-4356
+		909-51-4642
+		924562434
+		778-62-8144
+		909934642
+		030 72 7381
+		757-85-7495
+	
+	}
+]
+
+USA DEA Number [
+	Valid codes:
+		BB1388568
+		RX8580434
+		GC0660060
+		GL0285193
+		Xd4545454
+
+	Invalid codes:
+		KV2993548 --
+		CU2013709
+		EU4488924
+		CP8422121
+		NK6810839
+]
+
+
+USA EIN Number [
+		vaildcode:
+		52-4352452
+		
+		invalid:
+		52.4352452
+		10_1234567
+		21\2343134
+		21/2343134
+		41 55151515
+
+]
+
+USA Individual Tin Number [
+	Valid ITIN
+		923-73-4356
+		923.84.6466
+		923 84 6466
+		986 94 2345
+
+
+	Invalid ITIN
+		909-66-4642
+		757-85-7495
+		149-13-7317
+		986 93 2345
+		003 06 8815
+		805 14 1893
+
+]
+
+
+USA Prepare Tin Number [
+	Valid:
+		P12345678
+		P85483632
+		P98596834
+
+	Invalid
+		75743931
+		P6523456
+		P652345612
+		P 56732345
+]
+
+
+USA Social Security Number [
+	Valid
+		154-54-5555
+		030 72 7381
+
+	Invalid
+		70906649
+		16325404
+		909-03-4642
+		401318448
+		790714615
+		666-22-2345
+		1111-22-0000
+		778-62-0000
+]
+
+USA State {
+	valid:
+		Florida
+		FL
+		Minnesota
+		MN
+		WA
+		Washington
+		Virginia
+		VA
+		Massachusetts
+		MA
+		TX
+}
+
+
+
+
+
+
+
+
+
+								 
+																 
+FDA = 38BEE27 (T)
+
+IBAN Numbetr Bank = AP5545455554545454545 (T)   But taking it as ssn
+
+HIN = ABC 12345 1272  ? (F)
+
+OHIP Number = 1122-800-265 (T) but taking it as ICD-9
+
+CCN CMS certificate number = ? (F)
+
+Credit Card number = 5555555555554444 (T) But taking as Social Insurance Number
+
+Credit Card Track Number is comment in seeder need to fix issue with it
+
+Date of Birth = 15-2-2022  || 15-02-2222 || 12-2-22 (T)
+
+ICD-10 = S06.0X1A (T)
+
+ICD-9 = 154-545 (T)
+
+IP Address = 192.168.105.1 (T) but taking as ICD-9
+
+Medical record Number
+	mrn : 1212315 							(T)
+    medical-record-number : 123456789789	(T)
+	mrn:1234567								(T)
+    medical_record_number:123456789			(T)
+	
+
+
+
+
+
+
+
+
+Note: Date, Email, Phone, SSN regexes are not available in seeder in HIPAA
+
+
+
+
+
+
