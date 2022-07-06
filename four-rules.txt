@@ -1,42 +1,4 @@
-        fawadshaheen@gmail.com
-	111-55-3333
-	11/11/2011
-	+32145698744
-	255.255.255.1
-	
-	
-	rashidali@gmail.com
-	fawadshaheen@gmail.com
-	ejazalimadni@gmail.com
-	
-	
-	
-	
-	ralidjf@gmail.com
-	
-	154-45-1545
-	
-	02-01-2022
-	
-	192.168.100.1
-	
-	a sdhsd mn sjhsjd testrule3@gmail.com skdasdj z
-	a sjkdhsdh mn sjkdhsjkdh testrule3 sjkljs z
-	
-	
-	
-	rashidali@gmail.com
-	fawadshaheen@gmail.com
-	ejazalimadni@gmail.com
-	+25896314789
-	+36974125844
-	+74145685266
-	11/11/2011
-	14/07/2010
-	05/02/1998
-	222-55-4444
-	111-44-9999
-	666-77-8888
-	255.255.255.2
-	225.225.225.4
-	192.168.121.7
+test123@gmail.com
+154-45-5455
+192.168.102.1
+21-02-2022
