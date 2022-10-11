@@ -1,0 +1,208 @@
+////////////////////////////////////////////////
+Built-In Identifiers
+///////////////////////////////////////////////
+
+Aggressive Behavior 
+don't feel safe
+Kill everyone
+CCN and Drug Name (Lenient)
+5455-7805-8606-2610 propoxyphen hydrochlorid aspirin
+CCN and Drug Name (Moderate)
+5455-7805-8606-2610 6011000990139424  4960999008288 and propoxyphen hydrochlorid aspirin
+CCN and Drug Name (Strict)
+american express visa 5455-7805-8606-2610 6011000990139424  4960999008288 ccn and propoxyphen hydrochlorid aspirin credit card
+CCN and Health Condition Name (Lenient)
+5455-7805-8606-2610 anemia
+CCN and Health Condition Name (Moderate)
+5455-7805-8606-2610 6011000990139424  4960999008288 and anemia
+CCN and Health Condition Name (Strict)
+american express visa 5455-7805-8606-2610 6011000990139424  4960999008288 ccn and anemia credit card
+Confidential
+Confidential document
+Credit Card Number (Lenient)
+All good here 5455-7805-8606-2610
+Credit Card Number (Moderate)
+5205105105105109 ccn
+Credit Card Number (Strict)
+All good here the credit card number is 5205105105105109
+Discriminatory Content
+you queero blabla
+towelhead
+Extreme Inappropriate Language
+fappening
+shit
+Self Harm
+this is my suicide note i am depressed Martin
+cut myself depressed
+UK International Bank Account Number (IBAN)
+Bank Account: GB12 ABCD 1234 5678 9012 34
+UK National Insurance Number
+national insurance number:  AA-12-12-12A
+UK Passport Number
+gbr 123456789GBR1234567U1234567
+UK Postcode
+zip code: PH3 1PF
+US Bank Account Number
+Checking Account Number 12345 
+US Driver's License Number
+drivers license: ssn 113-01-1111
+US Individual Taxpayer Identification Number (ITIN)
+taxpayer: 912-78-1224
+US Passport Number
+123456789USA1234567U1234567 passport
+US Person Name and Date of Birth (Lenient)
+Clark Hfldaskjfiougj has a date of birth of 01/15/1975
+US Person Name and Date of Birth (Moderate)
+Clark Hfldaskjfiougj has a date of birth of 01/15/1975
+US Person Name and Date of Birth (Strict)
+Clark Kent has a date of birth of 01/15/1975
+US Person Name And Drug Name (Lenient)
+Clark Kent takes aspirin
+US Person Name And Drug Name (Moderate)
+Clark Hfldaskjfiougj  takes aspirin
+US Person Name And Drug Name (Strict)
+Clark Kent takes aspirin
+US Person Name And Health Condition (Lenient)
+Clark Hfldaskjfiougj suffers from anemia
+US Person Name And Health Condition (Moderate)
+Clark Hfldaskjfiougj suffers from anemia
+US Person Name And Health Condition (Strict)
+Clark Kent suffers from anemia
+US Person Name and ICD-10 Code (Lenient)
+Clark Hfldaskjfiougj takes A15.4
+US Person Name and ICD-10 Code (Moderate)
+Clark Hfldaskjfiougj takes A15.4
+US Person Name and ICD-10 Code (Strict)
+Clark Kent takes A15.4
+US Social Security Number (Lenient)
+All good here 113-01-1111
+US Social Security Number (Moderate)
+All good here  113-01-1111
+US Social Security Number (Strict)
+All good here the social security number is 113-01-1111
+US Social Security Number and Drug Name (Lenient)
+flovent blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 113-01-1111
+US Social Security Number and Drug Name (Moderate)
+flovent and 113-01-1111
+US Social Security Number and Drug Name (Strict)
+flovent and social security number 113-01-1111
+US Social Security Number and Health Condition Name (Lenient)
+anemia blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 113-01-1111
+US Social Security Number and Health Condition Name (Moderate)
+anemia and 113-01-1111
+US Social Security Number and Health Condition Name (Strict)
+anemia and ssn 113-01-1111
+US Social Security Number and ICD-10 Code (Lenient)
+113-01-1111 takes A15.4
+US Social Security Number and ICD-10 Code (Moderate)
+113-01-1111 takes A15.4
+US Social Security Number and ICD-10 Code (Strict)
+social security number 113-01-1111 takes A15.4
+US Student Loan Application Information
+student loan information
+Driver's License Number (Australia)
+driver's license 428165389
+Passport Number (Finland)
+Passi number is AB1234567
+Multiple Personal Identifiers – PII (Australia) – Lenient
+Clark Kent 11/23/1988 dob ccn 4566604538181253
+Individualized Education Plan – IEP
+Jose Ruiz-Lopez Individualized Education Plan Name first Name
+Citizen Card Number – CC (Portugal)
+Cartão de Cidadão 12345678-1A31
+National Identity Number – OIB (Croatia)
+Croatian identity card is 123456789
+IP Address
+All good here 123.45.6.7
+Family Educational Rights and Privacy Act – FERPA
+wire transfer information|loan information Date of Birth
+Bank Account Number (Australia)
+bank account 44329630
+Multiple Personal Identifiers – PII (US) – Strict
+11/11/11 date of birth Mary Jones passport 1234567890USA1234567M1234567
+Multiple Personal Identifiers – PII (Australia) – Moderate
+John Grady 01/01/01 date of birth cc# 5305105105105108
+Date of Birth
+All good here birth date 01/01/1990
+Driver's License Number (Japan)
+状態の識別番号 123456789123
+Resident Social Insurance Number (Japan)
+Social Insurance No. 123456789123 Social Insurance Num 123456789123
+National Identity Number (Israel)
+תעודת זהות 231740705
+Objectionable Content
+bastards
+Carte nationale d’identité sécurisée – CNIS (France)
+numéro de carte Vitale 991119912345
+Medical Prescriptions (US)
+Anthony Heathcote-Drummond-Willoughby milliliter RX propoxyphen hydrochlorid aspirin
+National Drug Code Number – NDC
+national drug code 50242-040-62
+Multiple Personal Identifiers – PII (Australia) – Strict
+Ryan Smith swift bank code 191 456 birth date 9/1/2001
+Driver's License Number (Italy)
+numero di patente di guida AV123ABCAA
+International Bank Account Number – IBAN (Spain)
+español ES12 1234 5678 1234 5679 1234
+National Identity Number (Philippines)
+Pinag-isang Multi-Layunin ID 4555-6789788-3
+Bank Account Number (Japan)
+デビット口座番号 1234-567
+Passport Number (France)
+PassportID  12AB12345
+Passport Number (Taiwan)
+Zhōnghuá Mínguó hùzhào 3456788999
+Email Address
+All good here! abc@cisco.com
+Tax File Number (Australia)
+individual tax return tfn 123 456 782
+Multiple Personal Identifiers – PII (European Union)
+Meissen Saks license plate VL 1 ABCD
+ICD-10 Code
+All good here Z16.1
+Bank Account Number (Israel)
+מספר חשבון בנק 2223334445556
+National Identity Number – KTP (Indonesia)
+Kartu Tanda Penduduk 1234567891234567
+Driver's License Number (France)
+driver's license 123456789012
+Resident Certificate Number – ARC or TARC (Taiwan)
+Resident Certificate AR12345678
+My Number (Japan)
+My Number 123456789123
+Social Security Number – INSEE (France)
+securité sociale 1890118007123 24
+Multiple Personal Identifiers – PII (US) – Lenient
+Clark Kent dob 23/11/88 ccn 4566604538181253
+Passport Number (Australia)
+passport A3403413
+Identity Card Number (Germany)
+identität nummer is I think A12345678
+Bank Account Number (Canada)
+canada savings bonds 12345-123
+National Identity Number – DNI (Argentina)
+Identificación 12.123.123
+Passport Number (Canada)
+canadian passport AB123456
+Resident Registration Number (Japan)
+Residents Basic Registry Number 12345678912 Resident Register No. 12345678912
+National Identity Number (Saudi Arabia)
+الوطنية الهوية بطاقة رقم 1222233334
+Passport Number (Sweden)
+Passportno 12345678
+Passport Number (Japan)
+パスポート AB1234567
+Personal Health Identification Number – PHIN (Canada)
+social insurance number 123456789
+National Identity Number (Greece)
+Δελτίο αστυνομικής ταυτότητας AB-123456
+SWIFT Code
+swiftcode BOFAUS3N
+Fiscal Identification Number – Número de identificación fiscal – NIF (Spain)
+carné de identidad 12345678Z
+Social Insurance Number – SIN (Canada)
+social insurance 143-025-617 social security 781397468
+Multiple Personal Identifiers – PII (US) – Moderate
+Ryan Doherty 25/12/90 dob cc# 3566002020360505 DL# S12345678 Tom Brady
+National Identity Number (Malaysia)
+Kad Aplikasi Digital 456666AB4567
